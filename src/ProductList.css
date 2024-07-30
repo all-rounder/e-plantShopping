@@ -250,3 +250,9 @@ body {
         text-align: center; /* Align text to the center */
       }
   }
+
+  /* Customized Style */
+  .item-count {
+    position: absolute;
+    font-weight: bold;
+  }
